@@ -29,7 +29,45 @@ Thremopoints browsing
 http://fires.kosmosnimki.ru/ 
 https://worldview.earthdata.nasa.gov/
 http://www.aviales.ru
-
+http://yasenf.aviales.ru/login/
 
 Thremopoints downloading 24h, 48h, 7days
 https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data
+Scripted automatic downloads instructions
+https://nrt4.modaps.eosdis.nasa.gov/help/downloads
+Arhive data download request
+https://firms.modaps.eosdis.nasa.gov/download/
+Near real time NASA download, needs to be logged
+https://nrt4.modaps.eosdis.nasa.gov/
+API download
+https://nrt4.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/
+
+
+scanex.ru
+http://scanex.ru/station/uniskan/
+http://scanex.ru/software/software-for-receiving-stations/
+http://scanex.ru/software/web-gis/geomixer/#software-buy
+
+NASA firemap
+https://firms.modaps.eosdis.nasa.gov/map
+NASA firealert
+https://firms.modaps.eosdis.nasa.gov/alerts
+NASA activefiredata
+https://firms.modaps.eosdis.nasa.gov/active_fire/
+NASA Archive downloads
+https://firms.modaps.eosdis.nasa.gov/download/
+NASA webservices
+https://firms.modaps.eosdis.nasa.gov/web-services/
+NASA my
+https://urs.earthdata.nasa.gov/home
+
+HOW to work with Google maps
+https://s3.amazonaws.com/VirtualGISClassroom/Introduction%20to%20the%20Google%20Maps%20API/player.html
+
+Amazon map
+https://developer.amazon.com/docs/maps/get-started.html
+https://www.youtube.com/watch?v=uKnPiJj7zpQ
+
+
+Google maps api
+https://www.youtube.com/watch?v=Zxf1mnP5zcw
